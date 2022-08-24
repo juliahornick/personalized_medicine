@@ -2,7 +2,7 @@
   <img  src="https://github.com/juliahornick/personalized_medicine/blob/main/Image/genes_mutation.png"/>  
   
   Mutations may be caused by mistakes during cell division, or they may be caused by exposure to DNA-damaging agents in the environment. 
-  Mutations can be harmful, beneficial, or have no effect. If they occur in cells that make eggs or sperm, they can be inherited; if mutations occur in other types of cells, they are not inherited. Certain mutations may lead to cancer or other diseases. A mutation is sometimes called a variant.
+  Mutations can be harmful, beneficial, or have no effect. Certain mutations may lead to cancer or other diseases. A mutation is sometimes called a variant.
 
 
   Gene mutations in cancer cells interfere with the normal instructions in a cell and can cause it to grow out of control or not die when it should. A cancer can continue to grow because cancer cells act differently than normal cells. 
